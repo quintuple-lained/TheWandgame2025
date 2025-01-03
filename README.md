@@ -2,7 +2,7 @@
 Who the F... is Alice
 
 <picture align="center">
-![WelcomeToTheEndgame](IMAGES/WelcomeToTheEndgame.gif)
+![WelcomeToTheEndgame](https://github.com/OldMan6955/TheEndgame2024/blob/main/IMAGES/WelcomeToTheEndgame.gif)
 
 
 
