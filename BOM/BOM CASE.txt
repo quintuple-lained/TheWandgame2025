@@ -9,3 +9,13 @@
 | Diodes SOD123 / 1N4148W T4   | 36 | https://www.aliexpress.com/item/1005004309686841.html?  |
 | Waveshare RP2040 UGLY AF     | 01 | https://de.aliexpress.com/item/1005006354505058.html? |
 | 0xCB Gemini BETTER LOOKING WAVESHARE  | 01 | https://keeb.supply/products/0xcb-gemini |
+
+
+4x M3 6mm countersunk
+https://de.aliexpress.com/item/4001199728978.html
+4x M3 5mm flathead
+https://de.aliexpress.com/item/1005005069968742.html
+12x M3 6.6mm grommet black
+https://de.aliexpress.com/item/4000712868621.html
+4x M3 D4.6mm L3mm Heatinsert
+https://de.aliexpress.com/item/4000232858343.html
