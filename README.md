@@ -1,7 +1,9 @@
 # The-ENDGAME 2024
 Who the F... is Alice
 
-![WelcomeToTheEndgame](https://github.com/OldMan6955/TheEndgame2024/blob/main/IMAGES/WelcomeToTheEndgame.gif)
+<div align="center">
+  <img src="https://github.com/OldMan6955/TheEndgame2024/blob/main/IMAGES/WelcomeToTheEndgame.gif" alt="WelcomeToTheEndgame">
+</div>
 
 
 
