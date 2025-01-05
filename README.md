@@ -18,10 +18,10 @@ Who the F... is Alice
 
 | Name des Parts          | Anzahl | Link zum Kauf                             |
 
--  1x The Endgame PCB             [Hier kaufen](https://keeb.supply/products/endgame) |
-- 36x Choc v1 Hotswap Sockets     [Hier kaufen](https://www.aliexpress.com/item/1005004916925259.html?) |
-- 36x Diodes SOD123 / 1N4148W T4  [Hier kaufen](https://de.aliexpress.com/item/1005006354505058.html?) |
--  1x Waveshare RP2040 UGLY AF    [Hier kaufen](https://de.aliexpress.com/item/1005006354505058.html?) |
+- 1x The Endgame PCB             [buy here](https://keeb.supply/products/endgame) |
+- 36x Choc v1 Hotswap Sockets     [buy here](https://www.aliexpress.com/item/1005004916925259.html?) |
+- 36x Diodes SOD123 / 1N4148W T4  [buy here](https://de.aliexpress.com/item/1005006354505058.html?) |
+- 1x Waveshare RP2040 UGLY AF    [buy here](https://de.aliexpress.com/item/1005006354505058.html?) |
 
 or get teh better looking thingy, highly recommended
 
