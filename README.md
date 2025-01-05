@@ -1,8 +1,7 @@
 <div align="center">
+<img src="https://github.com/OldMan6955/TheEndgame2024/blob/main/IMAGES/WelcomeToTheEndgame.gif" alt="WelcomeToTheEndgame">
 
 ## Who the F... is Alice ##
-
-<img src="https://github.com/OldMan6955/TheEndgame2024/blob/main/IMAGES/WelcomeToTheEndgame.gif" alt="WelcomeToTheEndgame">
 </div>
 
 Originally inspired by the legendary TGR Alice, The ENDGAME may not win any prizes for ergonomics. But just like the Alice, it's a true icon - a masterpiece you'll want to show off, even if your fingers take a little time to get used to it.
