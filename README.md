@@ -48,7 +48,6 @@ the hole for the heat inserts is 4mm deep and the pcb is 1.6mm so 5mm screws fit
 You just need 4 Grommets if you want a little bit of flex or bounce. They work perfectly fine as feet and give a nice resistence on my desk but you can also use bumpons instead.
 
 
-
-    "The worst thing that can happen is someone calling me a keyboard designer.
-    -OLDMAN6955"
+    "The worst thing that can happen is someone calling me a keyboard designer."
+    -OLDMAN6955
 
