@@ -7,16 +7,11 @@
 
 Originally inspired by the legendary TGR Alice, The ENDGAME may not win any prizes for ergonomics. But just like the Alice, it's a true icon - a masterpiece you'll want to show off, even if your fingers take a little time to get used to it.
 
-This low-profile keyboard unlocks your true potential for high-performance typing. With a slightly staggered layout, it's perfect for curious newbies dipping their toes into the world of ergonomic keyboards, as well as seasoned veterans who've tried every bizarre layout out there and want something solid for everyday use. The never-before-seen bottomless top-mount design makes it super-thin, incredibly light and ideal for people who actually leave the house.
+This low-profile keyboard is designed for high-performance typing, with a slightly staggered layout that's great for ergonomic newcomers and veterans alike. Its unique bottomless top-mount design makes it super-thin, lightweight, and perfect for on-the-go use.
 
-The ENDGAME is the ultimate AI keyboard, whether you're typing genius prompts or just ranting about AI (we won't judge). It lets you switch sides whenever you want - no need to switch keyboards.
+After three years of development and global collaboration, the ENDGAME isn't just a keyboard—it's a community-driven project, embodying the journey and friendships built along the way.
 
-Of course, all of this is 100% true - if you believe the marketing blah blah blah. But in the end, it's all about the friends we've made along the way. The ENDGAME is the result of a 3 year adventure to finally get things right, with a lot of help from friends all over the world. So while it may be my "ENDGAME", it's really a community project more than anything else.
-
-Thanks to everyone who has contributed. Enjoy, have fun and remember: LOVE, PEACE, UWU... repeat.
-
-    "The worst thing that can happen is someone calling me a keyboard designer."
-Who the F... is Alice
+Thanks to everyone who has contributed. Enjoy, have fun and remember: LOVE, PEACE, UWU and repeat.
 
 
 
@@ -54,4 +49,6 @@ You just need 4 Grommets if you want a little bit of flex or bounce. They work p
 
 
 
+    "The worst thing that can happen is someone calling me a keyboard designer.
+    -OLDMAN6955"
 
