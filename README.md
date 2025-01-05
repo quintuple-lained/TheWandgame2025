@@ -1,14 +1,11 @@
-<div align="center">
+
 
 ## The-ENDGAME 2024 ##
 
 Who the F... is Alice
 
-</div>
 
-<div align="center">
-  <img src="https://github.com/OldMan6955/TheEndgame2024/blob/main/IMAGES/WelcomeToTheEndgame.gif" alt="WelcomeToTheEndgame">
-</div>
+
 
 
 
