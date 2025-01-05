@@ -15,15 +15,18 @@ Who the F... is Alice
 ## Komponentenliste
 
 
-##
+
 | Name des Parts          | Anzahl | Link zum Kauf                             |
 |--------------------------|--------|------------------------------------------|
-| ####The Endgame PCB ####         | 01     | [Hier kaufen](https://keeb.supply/products/endgame) |
-| Choc v1 Hotswap Sockets  | 36     | [Hier kaufen](https://www.aliexpress.com/item/1005004916925259.html?) |
-| Diodes SOD123 / 1N4148W T4 | 01    | [Hier kaufen](https://de.aliexpress.com/item/1005006354505058.html?) |
-| Waveshare RP2040 UGLY AF | 01     | [Hier kaufen](https://de.aliexpress.com/item/1005006354505058.html?) |
-| 0xCB Gemini              | 01     | [Hier kaufen](https://keeb.supply/products/0xcb-gemini) |
-##
+| ####The Endgame PCB         | 01     | [Hier kaufen](https://keeb.supply/products/endgame) |
+| Choc v1 Hotswap Sockets     | 36     | [Hier kaufen](https://www.aliexpress.com/item/1005004916925259.html?) |
+| Diodes SOD123 / 1N4148W T4  | 01    | [Hier kaufen](https://de.aliexpress.com/item/1005006354505058.html?) |
+| Waveshare RP2040 UGLY AF    | 01     | [Hier kaufen](https://de.aliexpress.com/item/1005006354505058.html?) |
+
+or get teh better looking thingy, highly recommended
+
+| 0xCB Gemini                 | 01     | [Hier kaufen](https://keeb.supply/products/0xcb-gemini) |
+
 
 
 Was passiert hier?
