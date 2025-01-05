@@ -20,9 +20,9 @@ Thanks to everyone who has contributed. Enjoy, have fun and remember: LOVE, PEAC
 
 ## ALL IN ONE ORDER ##
 
-YOU CAN BUY THE WHOLE KIT HERE AT KEBBSUPPLY TRUSTED VENDOR OF CHOICE WITH CHEAP INTERNATIONAL SHIPPING, EVERYTHING YOU NEED IN ONE PLACE HIGHLY RECOMMENDED.             [buy here](https://keeb.supply/products/endgame) 
+You can purchase the entire kit from KeebSupply, a trusted vendor offering affordable international shipping. Get everything you need in one convenient place—highly recommended!  [buy here](https://keeb.supply/products/endgame) 
 
-Please check out this awesome buildguide, all you need, still had no time to make my own and tbh can't do a better one. Thx @KeebSupply [BUILD GUIDE AND SUPPLIES](https://docs.keeb.supply/endgame/) 
+For an excellent build guide, check out this fantastic resource from KeebSupply. I haven’t had the time to create my own guide (and honestly, I couldn’t top this one). Big thanks to @KeebSupply! [Build Guide and Supplies](https://docs.keeb.supply/endgame/) 
 
 
 
