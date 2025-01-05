@@ -12,7 +12,7 @@ Who the F... is Alice
 
 
 
-## PARTS LIST PCB ##                            |
+## PARTS LIST PCB ##
 
 - 1x The Endgame PCB             [buy here](https://keeb.supply/products/endgame) |
 - 36x Choc v1 Hotswap Sockets     [buy here](https://www.aliexpress.com/item/1005004916925259.html?) |
