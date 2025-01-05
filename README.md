@@ -18,13 +18,13 @@ Thanks to everyone who has contributed. Enjoy, have fun and remember: LOVE, PEAC
     "The worst thing that can happen is someone calling me a keyboard designer."
 Who the F... is Alice
 
-
+YOU CAN BUY THE WHOLE KIT HERE AT KEBBSUPPLY TRUSTED VENDOR OF CHOICE WITH CHEAP INTERNATIONAL SHIPPING, EVERYTHING YOU NEED IN ONE PLACE HIGHLY RECOMMENDED             [buy here](https://keeb.supply/products/endgame) 
 
 
 
 ## PARTS LIST PCB ##
 
-- 1x The Endgame PCB             [buy here](https://keeb.supply/products/endgame) 
+- 1x The Endgame PCB             [Gerber Files](https://github.com/OldMan6955/TheEndgame2024/tree/main/PCB) 
 - 36x Choc v1 Hotswap Sockets    [buy here](https://www.aliexpress.com/item/1005004916925259.html?) 
 - 36x Diodes SOD123 / 1N4148W T4 [buy here](https://de.aliexpress.com/item/1005006354505058.html?) 
 - 1x Waveshare RP2040 UGLY AF    [buy here](https://de.aliexpress.com/item/1005006354505058.html?) 
