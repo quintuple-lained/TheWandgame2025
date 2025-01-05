@@ -2,7 +2,7 @@
 
 ## The-ENDGAME 2024 ##
 
-<p style="font-family: 'Courier New', monospace;">Who the F... is Alice</p>
+Who the F... is Alice
 
 <img src="https://github.com/OldMan6955/TheEndgame2024/blob/main/IMAGES/WelcomeToTheEndgame.gif" alt="WelcomeToTheEndgame">
 
