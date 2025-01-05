@@ -9,7 +9,7 @@ Who the F... is Alice
 
 ## Komponentenliste
 
-<div style="font-size: 20px;">
+<small>
 
 | Name des Parts          | Anzahl | Link zum Kauf                             |
 |--------------------------|--------|------------------------------------------|
@@ -19,7 +19,8 @@ Who the F... is Alice
 | Waveshare RP2040 UGLY AF | 01     | [Hier kaufen](https://de.aliexpress.com/item/1005006354505058.html?) |
 | 0xCB Gemini              | 01     | [Hier kaufen](https://keeb.supply/products/0xcb-gemini) |
 
-</div>
+</small>
+
 
 Was passiert hier?
 
