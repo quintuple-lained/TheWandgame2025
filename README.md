@@ -9,7 +9,7 @@ Who the F... is Alice
 
 ## Komponentenliste
 
-<div style="font-size: 10px;">
+<div style="font-size: 6px;">
 
 | Name des Parts          | Anzahl | Link zum Kauf                             |
 |--------------------------|--------|------------------------------------------|
