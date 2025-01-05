@@ -44,13 +44,13 @@ or get the better looking thingy, highly recommended
 - 4x M3 6mm countersunk          [buy here](https://de.aliexpress.com/item/4001199728978.html) 
 - 4x M3 5mm flathead             [buy here](https://www.aliexpress.com/item/1005004916925259.html?) 
 
-You can chose either countersunk or flathead, both work fine for me. Countersunk align the pcb on its own with flathead you can align it yourself and adjust if needed.
-the hole for the heat inserts is 4mm deep and the pcb is 1.6mm so 5mm screws fit perfectly but check how the lenght is measured for teh screw, it differs.
+You can choose either countersunk or flathead screws—both work well. Countersunk screws automatically align the PCB, while flathead screws allow you to manually align and adjust as needed.
+The hole for the heat inserts is 4mm deep, and the PCB is 1.6mm thick, so 5mm screws are a perfect fit. Just double-check how the screw length is measured, as this can vary.
 
 - 4x M3 D4.6mm L3mm Heatinsert   [buy here](https://de.aliexpress.com/item/1005006354505058.html?) 
 - 12x M3 6.6mm grommet black     [buy here](https://www.aliexpress.com/item/1005004309686841.html?) 
 
-You just need 4 Grommets if you want a little bit of flex or bounce. They work perfectly fine as feet and give a nice resistence on my desk but you can also use bumpons instead.
+You’ll need 4 grommets if you’re aiming for a bit of flex or bounce, but you can use up to 12 depending on your preference. They work perfectly as feet and provide excellent grip on my desk. Alternatively, bumpons are a great option too.
 
 
     "The worst thing that can happen is someone calling me a keyboard designer."
