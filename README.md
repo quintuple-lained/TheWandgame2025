@@ -14,8 +14,8 @@ Who the F... is Alice
 
 ## Komponentenliste
 
-<small>
 
+##
 | Name des Parts          | Anzahl | Link zum Kauf                             |
 |--------------------------|--------|------------------------------------------|
 | The Endgame PCB          | 01     | [Hier kaufen](https://keeb.supply/products/endgame) |
@@ -23,8 +23,7 @@ Who the F... is Alice
 | Diodes SOD123 / 1N4148W T4 | 01    | [Hier kaufen](https://de.aliexpress.com/item/1005006354505058.html?) |
 | Waveshare RP2040 UGLY AF | 01     | [Hier kaufen](https://de.aliexpress.com/item/1005006354505058.html?) |
 | 0xCB Gemini              | 01     | [Hier kaufen](https://keeb.supply/products/0xcb-gemini) |
-
-</small>
+##
 
 
 Was passiert hier?
