@@ -15,6 +15,8 @@ Thanks to everyone who has contributed. Enjoy, have fun and remember: LOVE, PEAC
 
 
 
+
+
 ## ALL IN ONE ORDER ##
 
 YOU CAN BUY THE WHOLE KIT HERE AT KEBBSUPPLY TRUSTED VENDOR OF CHOICE WITH CHEAP INTERNATIONAL SHIPPING, EVERYTHING YOU NEED IN ONE PLACE HIGHLY RECOMMENDED.             [buy here](https://keeb.supply/products/endgame) 
@@ -33,6 +35,8 @@ Please check out this awesome buildguide, all you need, still had no time to mak
 or get the better looking thingy, highly recommended
 
 - | 01 | 0xCB Gemini             [buy here](https://keeb.supply/products/0xcb-gemini) |
+
+
 
 ## PARTS LIST FDM CASE ##
 
