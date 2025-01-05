@@ -2,6 +2,9 @@
 
 ## The-ENDGAME 2024 ##
 
+<img src="https://github.com/OldMan6955/TheEndgame2024/blob/main/IMAGES/WelcomeToTheEndgame.gif" alt="WelcomeToTheEndgame">
+
+
 Originally inspired by the legendary TGR Alice, The ENDGAME may not win any prizes for ergonomics. But just like the Alice, it's a true icon - a masterpiece you'll want to show off, even if your fingers take a little time to get used to it.
 
 This low-profile keyboard unlocks your true potential for high-performance typing. With a slightly staggered layout, it's perfect for curious newbies dipping their toes into the world of ergonomic keyboards, as well as seasoned veterans who've tried every bizarre layout out there and want something solid for everyday use. The never-before-seen bottomless top-mount design makes it super-thin, incredibly light and ideal for people who actually leave the house.
@@ -15,7 +18,6 @@ Thanks to everyone who has contributed. Enjoy, have fun and remember: LOVE, PEAC
     "The worst thing that can happen is someone calling me a keyboard designer."
 Who the F... is Alice
 
-<img src="https://github.com/OldMan6955/TheEndgame2024/blob/main/IMAGES/WelcomeToTheEndgame.gif" alt="WelcomeToTheEndgame">
 
 
 
