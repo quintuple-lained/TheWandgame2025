@@ -2,7 +2,8 @@
 
 ## The-ENDGAME 2024 ##
 
-Who the F... is Alice
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+<p style="font-family: 'Roboto', sans-serif;">Who the F... is Alice</p>
 
 <img src="https://github.com/OldMan6955/TheEndgame2024/blob/main/IMAGES/WelcomeToTheEndgame.gif" alt="WelcomeToTheEndgame">
 
@@ -25,13 +26,13 @@ or get the better looking thingy, highly recommended
 - 4x M3 6mm countersunk          [buy here](https://de.aliexpress.com/item/4001199728978.html) 
 - 4x M3 5mm flathead             [buy here](https://www.aliexpress.com/item/1005004916925259.html?) 
 
-you can chose countersunk or flathead, both work fine for me. Countersunk align the pcb on its own with flathead you can align it yourself and adjust if needed.
+You can chose either countersunk or flathead, both work fine for me. Countersunk align the pcb on its own with flathead you can align it yourself and adjust if needed.
 the hole for the heat inserts is 4mm deep and the pcb is 1.6mm so 5mm screws fit perfectly but check how the lenght is measured for teh screw, it differs.
 
 - 4x M3 D4.6mm L3mm Heatinsert   [buy here](https://de.aliexpress.com/item/1005006354505058.html?) 
 - 12x M3 6.6mm grommet black     [buy here](https://www.aliexpress.com/item/1005004309686841.html?) 
 
-you just need 4 Grommets if you want a little bit of flex or bounce. They work perfectly fine as feet and give a nice resistence an my desk but you can also use bumpons instead.
+You just need 4 Grommets if you want a little bit of flex or bounce. They work perfectly fine as feet and give a nice resistence on my desk but you can also use bumpons instead.
 
 
 
