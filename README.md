@@ -58,6 +58,9 @@ The firmware, expertly created by [dreipunkteinsvier](https://github.com/dreipun
 Huge thanks to him—I’d have been completely lost without his help!
 
 
+While this project is free and open-source, I truly appreciate your support. If you'd like to contribute, feel free to leave a tip via Ko-fi to help support future projects. Thank you!
+
+
     "The worst thing that can happen is someone calling me a keyboard designer."
     -OLDMAN6955
 
