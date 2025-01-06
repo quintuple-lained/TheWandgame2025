@@ -59,7 +59,7 @@ Huge thanks to him, I’d have been completely lost without his help!
 
 
 While this project is free and open source, I truly appreciate your support. If you'd like to contribute, feel free to leave a tip via Ko-fi to help support future projects. Thank you!
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'T6T218HXN9');kofiwidget2.draw();</script> 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T218HXN9) 
 
     "The worst thing that can happen is someone calling me a keyboard designer."
     -OLDMAN6955
