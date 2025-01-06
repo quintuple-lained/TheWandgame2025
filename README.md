@@ -52,6 +52,11 @@ The hole for the heat inserts is 4mm deep, and the PCB is 1.6mm thick, so 5mm sc
 
 You’ll need 4 grommets if you’re aiming for a bit of flex or bounce, but you can use up to 12 depending on your preference. They work perfectly as feet and provide excellent grip on my desk. Alternatively, bumpons are a great option too.
 
+## FIRMWARE - QMK AND VIAL ##
+
+The firmware, expertly created by [dreipunkteinsvier](https://github.com/dreipunkteinsvier), is available for download on his repository: [Get it here](https://github.com/dreipunkteinsvier/qmk-config-endgame) 
+Huge thanks to him—I’d have been completely lost without his help!
+
 
     "The worst thing that can happen is someone calling me a keyboard designer."
     -OLDMAN6955
