@@ -2,9 +2,6 @@
 
 
 
-<div align="center">
-<img src="https://github.com/OldMan6955/TheEndgame2024/blob/main/004%20IMAGES/WelcomeToTheEndgame.gif" alt="WelcomeToTheEndgame">
-</div>
 
 
 ## Who the F... is Alice ##
