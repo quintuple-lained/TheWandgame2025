@@ -7,19 +7,19 @@
 ## Who the F... is Alice ##
 
 
-Originally inspired by the legendary TGR Alice, The ENDGAME may not win any prizes for ergonomics. But just like the Alice, it's a true icon a masterpiece you'll want to show off, even if your fingers take a little time to get used to it.
+Inspired by the legendary TGR Alice, the ENDGAME pays homage to a true classic. While it might not claim the top spot for ergonomics, its design speaks for itself—an iconic piece you’ll want to show off, even if it takes a bit of time for your fingers to adjust.
 
-This low profile keyboard is designed for high performance typing, with a slightly staggered layout that's great for ergonomic newcomers and veterans alike. Its unique bottomless topmount design makes it super-thin, lightweight, and perfect for on the go use.
+This low-profile keyboard is built for high performance typing. Its slightly staggered layout works beautifully for both ergonomic beginners and experienced users. The unique bottomless top mount design makes it incredibly slim, lightweight, and perfect for those on the move.
 
-After three years of development and global collaboration, the ENDGAME isn't just a keyboard it's a community driven project, embodying the journey and friendships built along the way.
+After three years of development and collaboration with contributors from around the world, the ENDGAME is more than just a keyboard it’s the result of a shared journey, a community driven effort that reflects the passion and creativity of everyone involved.
 
-Thanks to everyone who has contributed. Enjoy, have fun and remember: LOVE, PEACE, UWU and repeat.
-
-
+To all who contributed thank you. Enjoy the journey, and have fun exploring what this keyboard can do!
 
 
 
-## Everything You Need, All in One Place ##
+
+
+## Everything You Need, All In One Place ##
 
 Get the entire kit from KeebSupply, a trusted vendor with affordable international shipping. It’s your one stop shop for everything you need highly recommended! [Buy here](https://keeb.supply/products/endgame) 
 
