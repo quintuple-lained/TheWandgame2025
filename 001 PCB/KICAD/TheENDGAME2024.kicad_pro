@@ -446,7 +446,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "TheENDGAME x HeliosMini.kicad_pro",
+    "filename": "TheENDGAME2024.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -592,7 +592,7 @@
   "sheets": [
     [
       "1a30e4b6-03d7-4c78-8024-353d1219867a",
-      "Root"
+      "Stammblatt"
     ]
   ],
   "text_variables": {}

@@ -5,7 +5,7 @@
 	(uuid "1a30e4b6-03d7-4c78-8024-353d1219867a")
 	(paper "A4")
 	(lib_symbols
-		(symbol "Best Symbol Library Final v3:Buzzer"
+		(symbol "TheEndgame2024:Buzzer"
 			(pin_names
 				(offset 0.0254) hide)
 			(exclude_from_sim no)
@@ -163,7 +163,154 @@
 				)
 			)
 		)
-		(symbol "Best Symbol Library Final v3:RP2040-Zero_stolen_from_Purox"
+		(symbol "TheEndgame2024:D_Small"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.254) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D28"
+				(at 2.54 1.2701 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Value" "D_Small"
+				(at 2.54 -1.2699 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Footprint" "Geist:Diode_SOD123 triangle clean"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Diode, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "D_Small_0_1"
+				(polyline
+					(pts
+						(xy -0.762 -1.016) (xy -0.762 1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 0) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.016) (xy -0.762 0) (xy 0.762 1.016) (xy 0.762 -1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_Small_1_1"
+				(pin passive line
+					(at -2.54 0 0)
+					(length 1.778)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 1.778)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "TheEndgame2024:RP2040-Zero_stolen_from_Purox"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -640,154 +787,7 @@
 				)
 			)
 		)
-		(symbol "ENDGAME_UWU_Gatekeeper_stuff:D_Small"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0.254) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D28"
-				(at 2.54 1.2701 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify right)
-				)
-			)
-			(property "Value" "D_Small"
-				(at 2.54 -1.2699 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify right)
-				)
-			)
-			(property "Footprint" "Geist:Diode_SOD123 triangle clean"
-				(at 0 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Diode, small symbol"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "D_Small_0_1"
-				(polyline
-					(pts
-						(xy -0.762 -1.016) (xy -0.762 1.016)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.762 0) (xy 0.762 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.016) (xy -0.762 0) (xy 0.762 1.016) (xy 0.762 -1.016)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "D_Small_1_1"
-				(pin passive line
-					(at -2.54 0 0)
-					(length 1.778)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 0 180)
-					(length 1.778)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "ENDGAME_UWU_Gatekeeper_stuff:SW_Push"
+		(symbol "TheEndgame2024:SW_Push"
 			(pin_numbers hide)
 			(pin_names
 				(offset 1.016) hide)
@@ -2853,7 +2853,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 156.21 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2927,7 +2927,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 142.24 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3001,7 +3001,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 226.06 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3075,7 +3075,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 151.13 60.96 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3151,7 +3151,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 184.15 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3225,7 +3225,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 220.98 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3301,7 +3301,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 151.13 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3377,7 +3377,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 248.92 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3453,7 +3453,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 198.12 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3527,7 +3527,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 234.95 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3603,7 +3603,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 156.21 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3677,7 +3677,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 198.12 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3751,7 +3751,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 170.18 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3825,7 +3825,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 165.1 60.96 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3901,7 +3901,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 254 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3975,7 +3975,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 198.12 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4049,7 +4049,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 193.04 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4125,7 +4125,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 184.15 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4199,7 +4199,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 193.04 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4275,7 +4275,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 254 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4349,7 +4349,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 248.92 60.96 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4425,7 +4425,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 137.16 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4501,7 +4501,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 179.07 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4577,7 +4577,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 220.98 60.96 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4653,7 +4653,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 165.1 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4729,7 +4729,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 170.18 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4803,7 +4803,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 248.92 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4879,7 +4879,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 240.03 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4953,7 +4953,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 184.15 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5027,7 +5027,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 193.04 60.96 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5103,7 +5103,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 142.24 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5177,7 +5177,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 137.16 60.96 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5253,7 +5253,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 212.09 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5327,7 +5327,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 212.09 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5401,7 +5401,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 262.89 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5477,7 +5477,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 240.03 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5551,7 +5551,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 137.16 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5627,7 +5627,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 267.97 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5701,7 +5701,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 207.01 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5777,7 +5777,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 198.12 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5851,7 +5851,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 184.15 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5925,7 +5925,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 207.01 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6001,7 +6001,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 193.04 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6077,7 +6077,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Best Symbol Library Final v3:RP2040-Zero_stolen_from_Purox")
+		(lib_id "TheEndgame2024:RP2040-Zero_stolen_from_Purox")
 		(at 40.64 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6208,7 +6208,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 220.98 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6284,7 +6284,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 226.06 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6358,7 +6358,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 207.01 60.96 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6434,7 +6434,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 137.16 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6510,7 +6510,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 262.89 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6586,7 +6586,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 220.98 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6662,7 +6662,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 151.13 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6738,7 +6738,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 240.03 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6812,7 +6812,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 156.21 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6886,7 +6886,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 207.01 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6962,7 +6962,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 267.97 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7036,7 +7036,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 212.09 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7110,7 +7110,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 234.95 60.96 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7186,7 +7186,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 254 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7260,7 +7260,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 234.95 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7336,7 +7336,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 212.09 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7410,7 +7410,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 262.89 60.96 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7486,7 +7486,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Best Symbol Library Final v3:Buzzer")
+		(lib_id "TheEndgame2024:Buzzer")
 		(at 52.07 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7556,7 +7556,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 170.18 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7630,7 +7630,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 226.06 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7704,7 +7704,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 165.1 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7780,7 +7780,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 267.97 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7854,7 +7854,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 142.24 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7928,7 +7928,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 179.07 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8004,7 +8004,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 262.89 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8080,7 +8080,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 179.07 60.96 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8156,7 +8156,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 267.97 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8230,7 +8230,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 142.24 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8304,7 +8304,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:SW_Push")
+		(lib_id "TheEndgame2024:SW_Push")
 		(at 226.06 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8378,7 +8378,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ENDGAME_UWU_Gatekeeper_stuff:D_Small")
+		(lib_id "TheEndgame2024:D_Small")
 		(at 179.07 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
