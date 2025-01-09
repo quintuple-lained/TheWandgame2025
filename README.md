@@ -64,6 +64,16 @@ While this project is free and open source, I truly appreciate your support. If 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T218HXN9) 
 
+## DISCLAIMER ##
+
+This keyboard is an open-source project, and all files are provided free of charge for personal use. While these files have been tested and worked for me, they are provided without any guarantees or warranties of any kind.
+
+By using these files, you agree to take full responsibility for verifying their suitability for your needs. Any orders, modifications, or reproductions made based on these files are done at your own risk. I am not liable for any issues, damages, or losses that may arise from the use of these files or the assembly of the keyboard.
+
+Please ensure you carefully review all files and specifications before proceeding. Thank you for understanding!
+
+## FINAL WISDOM ##
+
     "The worst thing that can happen is someone calling me a keyboard designer."
     -OLDMAN6955
 
