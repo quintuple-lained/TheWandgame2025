@@ -7,9 +7,9 @@
 ## Who the F... is Alice ##
 
 
-Inspired by the legendary TGR Alice, the ENDGAME pays homage to a true classic. While it might not claim the top spot for ergonomics, its design speaks for itself—an iconic piece you’ll want to show off, even if it takes a bit of time for your fingers to adjust.
+Inspired by the legendary TGR Alice, the ENDGAME pays homage to a true classic. While it might not claim the top spot for ergonomics, it's design speaks for itself an iconic piece you’ll want to show off, even if it takes a bit of time for your fingers to adjust.
 
-This low-profile keyboard is built for high performance typing. Its slightly staggered layout works beautifully for both ergonomic beginners and experienced users. The unique bottomless top mount design makes it incredibly slim, lightweight, and perfect for those on the move.
+This low profile keyboard is built for high performance typing. Its slightly staggered layout works beautifully for both ergonomic beginners and experienced users. The unique bottomless top mount design makes it incredibly slim, lightweight, and perfect for those on the move.
 
 After three years of development and collaboration with contributors from around the world, the ENDGAME is more than just a keyboard it’s the result of a shared journey, a community driven effort that reflects the passion and creativity of everyone involved.
 
