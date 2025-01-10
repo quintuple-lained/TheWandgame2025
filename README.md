@@ -85,6 +85,11 @@ While this project is free and open source, I truly appreciate your support. If 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T218HXN9) 
 
+## SHARE YOUR BUILDS ##
+
+Do you love your ENDGAME? I'd love to see your builds! Join the Discord community to share pictures of your builds, get tips, and chat with fellow enthusiasts.
+
+[![Join My Discord](https://img.shields.io/badge/Join%20Us-On%20Discord-7289da?logo=discord&style=for-the-badge)](https://discord.com/api/guilds/1327415596765151294/widget.json)
 
 ## FINAL WISDOM ##
 
