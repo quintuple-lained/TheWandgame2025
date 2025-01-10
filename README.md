@@ -91,3 +91,4 @@ While this project is free and open source, I truly appreciate your support. If 
     "The worst thing that can happen is someone calling me a keyboard designer."
     -OLDMAN6955
 
+<iframe src="https://discord.com/widget?id=1327415596765151294&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
