@@ -11,12 +11,6 @@ Inspired by the legendary TGR Alice, the ENDGAME pays homage to a true classic. 
 
 This low profile keyboard is built for high performance typing. Its slightly staggered layout works beautifully for both ergonomic beginners and experienced users. The unique bottomless top mount design makes it incredibly slim, lightweight, and perfect for those on the move.
 
-After three years of development and collaboration with contributors from around the world, the ENDGAME is more than just a keyboard it’s the result of a shared journey, a community driven effort that reflects the passion and creativity of everyone involved.
-
-To all who contributed thank you. Enjoy the journey, and have fun exploring what this keyboard can do!
-
-
-
 
 
 ## Everything You Need, All In One Place ##
@@ -74,11 +68,16 @@ Please ensure you carefully review all files and specifications before proceedin
 
 ## RANDOM PEOPLE I KNOW ##
 
+After three years of development and collaboration with contributors from around the world, the ENDGAME is more than just a keyboard it’s the result of a shared journey, a community driven effort that reflects the passion and creativity of everyone involved.
+
+To all who contributed thank you. Enjoy the journey, and have fun exploring what this keyboard can do!
+
 - [Marco "Bob"](https://github.com/GroooveBob) - for answering all my dumb questions 24/7
 - [dreipunkteinsvier](https://github.com/dreipunkteinsvier) - firmware and stupid github
 - [bubbleology](https://github.com/bubbleology) - inspiration, CAD and emotional support
 - [GEIST](https://github.com/GEIGEIGEIST) - can't remember what, but we talked about stuff back in the days RIP
-- [MY WIFE] - for reasons
+- MY WIFE - for reasons
+- and many more
 
 ## PICTURES ##
 
