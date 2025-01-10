@@ -72,6 +72,18 @@ By using these files, you agree to take full responsibility for verifying their 
 
 Please ensure you carefully review all files and specifications before proceeding. Thank you for understanding!
 
+## RANDOM PEOPLE I KNOW ##
+
+- [Marco "Bob"](https://github.com/GroooveBob) - for answering all my dumb questions 24/7
+- [dreipunkteinsvier](https://github.com/dreipunkteinsvier) - firmware and stupid github
+- [bubbleology](https://github.com/bubbleology) - inspiration, CAD and emotional support
+- [GEIST](https://github.com/GEIGEIGEIST) - can't remember what, but we talked about stuff back in the days RIP
+- [MY WIFE] - for reasons
+
+## PICTURES ##
+
+<img src="https://github.com/OldMan6955/TheEndgame2024/blob/main/004%20IMAGES/TheENDGAME%20front.png" alt="TheENDGAME front">
+
 ## FINAL WISDOM ##
 
     "The worst thing that can happen is someone calling me a keyboard designer."
