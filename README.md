@@ -52,12 +52,6 @@ You’ll need 4 grommets if you’re aiming for a bit of flex or bounce, but you
 The firmware, expertly created by [dreipunkteinsvier](https://github.com/dreipunkteinsvier), is available for download on his repository: [Get it here](https://github.com/dreipunkteinsvier/qmk-config-endgame) 
 Huge thanks to him, I’d have been completely lost without his help!
 
-## ONLY FANS ##
-
-While this project is free and open source, I truly appreciate your support. If you'd like to contribute, feel free to leave a tip via Ko-fi to help support future projects. Thank you!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T218HXN9) 
-
 ## DISCLAIMER ##
 
 This keyboard is an open-source project, and all files are provided free of charge for personal use. While these files have been tested and worked for me, they are provided without any guarantees or warranties of any kind.
@@ -82,6 +76,13 @@ To all who contributed thank you. Enjoy the journey, and have fun exploring what
 ## PICTURES ##
 
 <img src="https://github.com/OldMan6955/TheEndgame2024/blob/main/004%20IMAGES/TheENDGAME%20front.png" alt="TheENDGAME front">
+
+## ONLY FANS ##
+
+While this project is free and open source, I truly appreciate your support. If you'd like to contribute, feel free to leave a tip via Ko-fi to help support future projects. Thank you!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T218HXN9) 
+
 
 ## FINAL WISDOM ##
 
