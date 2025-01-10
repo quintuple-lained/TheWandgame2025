@@ -76,6 +76,8 @@ To all who contributed thank you. Enjoy the journey, and have fun exploring what
 ## PICTURES ##
 
 <img src="https://github.com/OldMan6955/TheEndgame2024/blob/main/004%20IMAGES/TheENDGAME%20front.png" alt="TheENDGAME front">
+<img src="https://github.com/OldMan6955/TheEndgame2024/blob/main/004%20IMAGES/TheENDGAME%20back.png" alt="TheENDGAME back">
+
 
 ## ONLY FANS ##
 
