@@ -64,14 +64,14 @@ Please ensure you carefully review all files and specifications before proceedin
 
 After three years of development and collaboration with contributors from around the world, the ENDGAME is more than just a keyboard it’s the result of a shared journey, a community driven effort that reflects the passion and creativity of everyone involved.
 
-To all who contributed thank you. Enjoy the journey, and have fun exploring what this keyboard can do!
-
 - [Marco "Bob"](https://github.com/GroooveBob) - for answering all my dumb questions 24/7
 - [dreipunkteinsvier](https://github.com/dreipunkteinsvier) - firmware and stupid github
 - [bubbleology](https://github.com/bubbleology) - inspiration, CAD and emotional support
 - [GEIST](https://github.com/GEIGEIGEIST) - can't remember what, but we talked about stuff back in the days RIP
 - MY WIFE - for reasons
 - and many more
+
+To all who contributed thank you. Enjoy the journey, and have fun exploring what this keyboard can do!
 
 ## PICTURES ##
 
