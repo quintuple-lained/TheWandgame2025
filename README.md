@@ -47,6 +47,11 @@ The hole for the heat inserts is 4mm deep, and the PCB is 1.6mm thick, so 5mm sc
 
 You’ll need 4 grommets if you’re aiming for a bit of flex or bounce, but you can use up to 12 depending on your preference. They work perfectly as feet and provide excellent grip on my desk. Alternatively, bumpons are a great option too.
 
+## SWITCHES AND KEYCAPS ##
+
+For Keycaps I prefer standard [MBK's](https://keeb.supply/products/mbk-keycaps) but your preferences may differ. You need 30x 1U Keycaps for your Alpha keys (or 28 1U and 2x 1U Homing Keys) 4x 1.5U and 2x 1U Convex Keycaps for your Bottom row. 
+Switches I highly recommend Choc v1 Silent switches like [Nocturnal](https://keeb.supply/products/nocturnal-low-profile-switches) or [Twilights](https://keeb.supply/products/twilight-low-profile-switches), [Sunsets](https://keeb.supply/products/sunset-low-profile-switches) are a good choice if you want heavier springs and a bit of tactile feel. Forget about the Rest of the choc v1 lineup.
+
 ## FIRMWARE - QMK AND VIAL ##
 
 The firmware, expertly created by [dreipunkteinsvier](https://github.com/dreipunkteinsvier), is available for download: [Get it here](https://github.com/OldMan6955/TheEndgame2024/tree/main/003%20FIRMWARE) 
