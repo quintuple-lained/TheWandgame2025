@@ -25,7 +25,7 @@ For an excellent build guide, check out this fantastic resource from KeebSupply.
 
 - 1x The Endgame PCB             [Gerber Files](https://github.com/OldMan6955/TheEndgame2024/tree/main/001%20PCB) 
 - 36x Choc v1 Hotswap Sockets    [buy here](https://www.aliexpress.com/item/1005004916925259.html?) 
-- 36x Diodes SOD123 / 1N4148W T4 [buy here](https://de.aliexpress.com/item/1005006354505058.html?) 
+- 36x Diodes SOD123 / 1N4148W T4 [buy here](https://de.aliexpress.com/item/1005004309686841.html?) 
 - 1x Waveshare RP2040 UGLY AF    [buy here](https://de.aliexpress.com/item/1005006354505058.html?) 
 
 or get the better looking thingy, highly recommended
