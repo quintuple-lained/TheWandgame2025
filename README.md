@@ -89,7 +89,7 @@ While this project is free and open source, I truly appreciate your support. If 
 
 Do you love your ENDGAME? I'd love to see your builds! Join the Discord community to share pictures of your builds, get tips, and chat with fellow enthusiasts.
 
-[![Join My Discord](https://img.shields.io/badge/Join%20Us-On%20Discord-7289da?logo=discord&style=for-the-badge)](https://discord.gg/NQmW8mduXG)
+[![Join My Discord](https://img.shields.io/badge/Join%20Me-On%20Discord-7289da?logo=discord&style=for-the-badge)](https://discord.gg/NQmW8mduXG)
 
 ## FINAL WISDOM ##
 
