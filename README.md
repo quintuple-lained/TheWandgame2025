@@ -87,7 +87,8 @@ While this project is free and open source, I truly appreciate your support. If 
 
 ## SHARE YOUR BUILDS ##
 
-Do you love your ENDGAME? I'd love to see your builds! Join the Discord community to share pictures of your builds, get tips, and chat with fellow enthusiasts.
+Do you love your ENDGAME? I’d love to see your builds! Join the Discord community to share pictures of your keyboards and chat with fellow enthusiasts.
+Just a heads-up: I can’t help with technical issues or soldering nightmares because I’m still learning myself. So, please don’t ask me for help with that!
 
 [![Join My Discord](https://img.shields.io/badge/Join%20Me-On%20Discord-7289da?logo=discord&style=for-the-badge)](https://discord.gg/NQmW8mduXG)
 
