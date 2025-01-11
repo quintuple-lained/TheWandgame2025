@@ -49,7 +49,7 @@ You’ll need 4 grommets if you’re aiming for a bit of flex or bounce, but you
 
 ## FIRMWARE - QMK AND VIAL ##
 
-The firmware, expertly created by [dreipunkteinsvier](https://github.com/dreipunkteinsvier), is available for download on his repository: [Get it here](https://github.com/dreipunkteinsvier/qmk-config-endgame) 
+The firmware, expertly created by [dreipunkteinsvier](https://github.com/dreipunkteinsvier), is available for download: [Get it here](https://github.com/OldMan6955/TheEndgame2024/tree/main/003%20FIRMWARE) 
 Huge thanks to him, I’d have been completely lost without his help!
 
 ## DISCLAIMER ##
