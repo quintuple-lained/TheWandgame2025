@@ -50,13 +50,17 @@ You’ll need 4 grommets if you’re aiming for a bit of flex or bounce, but you
 ## SWITCHES AND KEYCAPS ##
 
 Switches
+
 I highly recommend the Choc v1 Silent switches, such as [Nocturnal](https://keeb.supply/products/nocturnal-low-profile-switches) or [Twilights](https://keeb.supply/products/twilight-low-profile-switches). If you prefer heavier springs and a bit of tactile feedback but don’t need silence, [Sunset](https://keeb.supply/products/sunset-low-profile-switches) switches are an excellent choice. As for the rest of the Choc v1 lineup, I wouldn’t bother—they’re not worth considering.
 
 Keycaps
+
 My go-to choice is standard [MBK](https://keeb.supply/products/mbk-keycaps) keycaps, but personal preference always plays a role. For your setup, you’ll need:
 
 - 30x 1U keycaps for the alpha keys (or 28x 1U and 2x 1U homing keycaps)
 - 4x 1.5U and 2x 1U convex keycaps for the bottom row
+
+Check with your local vendor, they’re in stock almost everywhere these days. A great way to test switches and keycaps is by attending meetups, there might be an active community near you.
 
 
 ## FIRMWARE - QMK AND VIAL ##
