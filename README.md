@@ -55,8 +55,8 @@ I highly recommend the Choc v1 Silent switches, such as [Nocturnal](https://keeb
 Keycaps
 My go-to choice is standard [MBK](https://keeb.supply/products/mbk-keycaps) keycaps, but personal preference always plays a role. For your setup, you’ll need:
 
-    30x 1U keycaps for the alpha keys (or 28x 1U and 2x 1U homing keycaps)
-    4x 1.5U and 2x 1U convex keycaps for the bottom row
+- 30x 1U keycaps for the alpha keys (or 28x 1U and 2x 1U homing keycaps)
+- 4x 1.5U and 2x 1U convex keycaps for the bottom row
 
 
 ## FIRMWARE - QMK AND VIAL ##
