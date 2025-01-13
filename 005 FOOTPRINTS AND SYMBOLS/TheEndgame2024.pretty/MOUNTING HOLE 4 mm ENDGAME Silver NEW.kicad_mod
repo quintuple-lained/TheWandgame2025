@@ -1,0 +1,111 @@
+(footprint "MOUNTING HOLE 4 mm ENDGAME Silver NEW"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Mounting Hole 3.2mm, M3, DIN965")
+	(tags "mounting hole 3.2mm m3 din965")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "Cmts.User")
+		(hide yes)
+		(uuid "4d3e484a-a87d-4df9-a8da-94b8eccc78f5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MOUNTING HOLE 4 mm ENDGAME Silver NEW"
+		(at 0 6.686506 0)
+		(layer "F.Fab")
+		(uuid "690b4422-75c3-4638-8789-3bd84c729606")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "UWUmasterGatekeeperHusoLib:MOUNTING HOLE 4 mm ENDGAME Silver NEW"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "07d0e485-47da-4a30-b25a-d0f09e2fc91e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c5f74643-a66b-48c5-b366-eca628f2f48e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "91a57414-00e7-4076-b55c-21c85fe194a0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr board_only exclude_from_pos_files exclude_from_bom)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "6c9aa032-e3e6-41e4-86fd-41c059b0da69")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 5 5)
+		(drill 4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "32054705-e867-44d9-9e32-0656983db5ab")
+	)
+	(pad "1" connect circle
+		(at 0 0)
+		(size 5 5)
+		(layers "F.Cu" "F.Mask")
+		(uuid "89f2da91-5b6c-4c73-b949-2759e4d760ea")
+	)
+	(pad "1" connect circle
+		(at 0 0)
+		(size 5 5)
+		(layers "B.Cu" "B.Mask")
+		(uuid "ecf71190-432e-47e6-9b0b-6129d4d0c4fc")
+	)
+	(model "/Users/meme/Documents/GitHub/KiCad-Assets/3D Models/M3 Rubber Grommet 6.6mm.step"
+		(hide yes)
+		(offset
+			(xyz 0 0 -0.85)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

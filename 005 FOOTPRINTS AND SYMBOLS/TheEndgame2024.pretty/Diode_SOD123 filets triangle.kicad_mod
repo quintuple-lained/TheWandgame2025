@@ -1,0 +1,163 @@
+(footprint "Diode_SOD123 filets triangle"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(placed yes)
+	(layer "F.Cu")
+	(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
+	(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
+	(property "Reference" "REF**"
+		(at -0.000002 1.5 360)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "1ecce8c3-be91-4d62-a1fa-5e9ec33a95e5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "D_Small"
+		(at 0 -1.2 360)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "593bc42a-889d-439e-9ac9-6be682cb1cc8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "85e6f132-c4c7-4450-8f75-0a09926cf209")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "08ad35fe-c4c8-487d-ae54-d4e4226a822c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "8c703240-982a-451c-b1c3-0ab7747dfe34")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0.4 0.7)
+		(end -0.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "58545355-8564-46be-9d1a-0c561b2cd453")
+	)
+	(fp_line
+		(start 0.4 -0.7)
+		(end 0.4 0.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "57105343-68d9-4df4-b96f-5109ec656772")
+	)
+	(fp_line
+		(start -0.5 0)
+		(end 0.4 -0.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "28e96d1b-0197-4c42-b6ce-d728383d4036")
+	)
+	(fp_line
+		(start -0.5 -0.7)
+		(end -0.5 0.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "82f1b515-c757-497f-9ea5-2ae8b6035c2c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -2 360)
+		(layer "F.Fab")
+		(uuid "d40911ce-d0ff-4395-8063-d2e26d033252")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd custom
+		(at -1.45 0 180.2)
+		(size 0.8 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0.447728 0.651567) (xy -0.702265 0.647553) (xy -1.249992 -0.004363) (xy -0.697727 -0.652439)
+					(xy 0.452266 -0.648425)
+				)
+				(width 0.2)
+				(fill yes)
+			)
+		)
+		(uuid "fc0794da-dca3-46f7-823a-5d5db2033a94")
+	)
+	(pad "2" smd roundrect
+		(at 1.7 0 180)
+		(size 1.8 1.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.06666666667)
+		(uuid "21e1819e-7dd1-4a3f-ba09-3d866781e98f")
+	)
+	(model "/Users/goatbook/Documents/GitHub/KiCad-Assets/3D Models Filets/D_SOD-123 Filets.step"
+		(offset
+			(xyz 0 0 -0.1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

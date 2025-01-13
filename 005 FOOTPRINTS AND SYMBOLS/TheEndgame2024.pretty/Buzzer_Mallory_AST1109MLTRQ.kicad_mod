@@ -1,0 +1,265 @@
+(footprint "Buzzer_Mallory_AST1109MLTRQ"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf")
+	(tags "buzzer piezo")
+	(property "Reference" "REF**"
+		(at 0 5.5 360)
+		(layer "Dwgs.User")
+		(hide yes)
+		(uuid "07de1554-284f-4055-8cbb-1393be4a53cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Buzzer"
+		(at 0 -5.5 360)
+		(layer "F.Fab")
+		(uuid "2721f62f-47f9-4506-a887-de04baee25ca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "UWUmasterGatekeeperHusoLib:Buzzer_Mallory_AST1109MLTRQ"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "9fca5acf-f218-4ebb-9880-d8efa726a0a3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "af6264b1-9771-48fa-ba36-d742baa959e6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "f029c1db-2ca6-46e8-8117-055b7ad827ce")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 7.95 1.35)
+		(end 5.75 1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dbe2a8dc-51dc-4543-ba05-37733737c1c2")
+	)
+	(fp_line
+		(start 7.95 -1.35)
+		(end 7.95 1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "35bd482f-c904-49b2-bcd2-5ca92a16ebd2")
+	)
+	(fp_line
+		(start 5.75 4.75)
+		(end -5.75 4.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "abea0fe3-a7ae-4818-af04-beada5603069")
+	)
+	(fp_line
+		(start 5.75 1.35)
+		(end 5.75 4.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f02c551d-cf62-40a7-b88b-187c8991163b")
+	)
+	(fp_line
+		(start 5.75 -1.35)
+		(end 7.95 -1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "969911b8-0b78-4695-8e3b-fc9c06654b24")
+	)
+	(fp_line
+		(start 5.75 -4.75)
+		(end 5.75 -1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9f3b29c6-7c3b-4757-8842-031312b55d39")
+	)
+	(fp_line
+		(start -5.75 4.75)
+		(end -5.75 1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2c1cdb78-f6f0-41c6-93e9-d716fd567740")
+	)
+	(fp_line
+		(start -5.75 1.35)
+		(end -7.95 1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f621d6de-1d3d-4a1a-8aab-262def34c837")
+	)
+	(fp_line
+		(start -5.75 -1.35)
+		(end -5.75 -4.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6dce8da6-7e94-42f9-937e-33f8f8856293")
+	)
+	(fp_line
+		(start -5.75 -4.75)
+		(end 5.75 -4.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b5d4e5f4-f875-4e5f-a5d9-cc27fe6b3f50")
+	)
+	(fp_line
+		(start -7.95 1.35)
+		(end -7.95 -1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5bfa7cbe-872e-4b17-b140-fcade94dfb86")
+	)
+	(fp_line
+		(start -7.95 -1.35)
+		(end -5.75 -1.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a7787083-b1c4-41da-ac7c-9d78fd290d1b")
+	)
+	(fp_line
+		(start 5.5 4.5)
+		(end -5.5 4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3d958788-7349-4e67-969d-71b86ea2188c")
+	)
+	(fp_line
+		(start 5.5 -4.5)
+		(end 5.5 4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "836628cb-f354-4046-9ff5-56a11ace67f7")
+	)
+	(fp_line
+		(start -5.5 4.5)
+		(end -5.5 -4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "edee4f4c-3402-4ad8-a25a-28c4e23dd44f")
+	)
+	(fp_line
+		(start -5.5 -4.5)
+		(end 5.5 -4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ecf28486-bea4-47fb-975e-3a8a43147af1")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 360)
+		(layer "F.Fab")
+		(uuid "61180790-cb7d-4000-a35c-7de34b8e146a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -6.6 0 180)
+		(size 2.2 2.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "b5700244-4a50-4c5d-9896-e1821aea3759")
+	)
+	(pad "2" smd rect
+		(at 6.6 0 180)
+		(size 2.2 2.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "2c3f46f4-330d-40e9-a29e-66b1421c1e58")
+	)
+	(model "${KICAD6_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_Mallory_AST1109MLTRQ.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
