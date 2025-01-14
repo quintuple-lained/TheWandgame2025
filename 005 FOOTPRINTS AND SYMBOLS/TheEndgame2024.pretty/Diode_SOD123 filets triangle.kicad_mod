@@ -6,11 +6,11 @@
 	(layer "F.Cu")
 	(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
 	(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
-	(property "Reference" "REF**"
-		(at -0.000002 1.5 360)
+	(property "Reference" "D17"
+		(at -0.000002 1.5 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "1ecce8c3-be91-4d62-a1fa-5e9ec33a95e5")
+		(uuid "d1bbe58d-cd1b-4caf-9745-7116debb6db1")
 		(effects
 			(font
 				(size 1 1)
@@ -19,10 +19,10 @@
 		)
 	)
 	(property "Value" "D_Small"
-		(at 0 -1.2 360)
+		(at 0 -1.2 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "593bc42a-889d-439e-9ac9-6be682cb1cc8")
+		(uuid "240dca61-021b-431b-9923-2ef05c6e8435")
 		(effects
 			(font
 				(size 1 1)
@@ -34,7 +34,7 @@
 		(at 0 0 0)
 		(layer "B.Fab")
 		(hide yes)
-		(uuid "85e6f132-c4c7-4450-8f75-0a09926cf209")
+		(uuid "c7b4ad39-18b0-4899-a2cd-513db3407639")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -47,7 +47,7 @@
 		(at 0 0 0)
 		(layer "B.Fab")
 		(hide yes)
-		(uuid "08ad35fe-c4c8-487d-ae54-d4e4226a822c")
+		(uuid "f0139356-7887-4eda-99e9-59480c3e1aa4")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -60,7 +60,7 @@
 		(at 0 0 0)
 		(layer "B.Fab")
 		(hide yes)
-		(uuid "8c703240-982a-451c-b1c3-0ab7747dfe34")
+		(uuid "22f1aac4-def7-46d4-a940-33c66d1dc029")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -71,24 +71,14 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start 0.4 0.7)
-		(end -0.5 0)
+		(start -0.5 -0.7)
+		(end -0.5 0.7)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "58545355-8564-46be-9d1a-0c561b2cd453")
-	)
-	(fp_line
-		(start 0.4 -0.7)
-		(end 0.4 0.7)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "57105343-68d9-4df4-b96f-5109ec656772")
+		(uuid "4d7af8a9-5c67-4b7b-9427-a59ae34a8375")
 	)
 	(fp_line
 		(start -0.5 0)
@@ -98,22 +88,32 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "28e96d1b-0197-4c42-b6ce-d728383d4036")
+		(uuid "cd5161b7-9d33-453d-8bc3-9f8aadddbe84")
 	)
 	(fp_line
-		(start -0.5 -0.7)
-		(end -0.5 0.7)
+		(start 0.4 -0.7)
+		(end 0.4 0.7)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "82f1b515-c757-497f-9ea5-2ae8b6035c2c")
+		(uuid "46c396e8-f7de-49be-912e-21386fdea00f")
+	)
+	(fp_line
+		(start 0.4 0.7)
+		(end -0.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "91d58e72-d908-4796-9f6f-cdcb8d1fb770")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 -2 360)
+		(at 0 -2 0)
 		(layer "F.Fab")
-		(uuid "d40911ce-d0ff-4395-8063-d2e26d033252")
+		(uuid "59a16791-bbd7-445a-971f-59cdefbe0c35")
 		(effects
 			(font
 				(size 1 1)
@@ -122,7 +122,7 @@
 		)
 	)
 	(pad "1" smd custom
-		(at -1.45 0 180.2)
+		(at -1.45 0 0.2)
 		(size 0.8 0.9)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(thermal_bridge_angle 45)
@@ -140,14 +140,14 @@
 				(fill yes)
 			)
 		)
-		(uuid "fc0794da-dca3-46f7-823a-5d5db2033a94")
+		(uuid "bc7d9438-d2ba-4e81-8550-c81c3bf35357")
 	)
 	(pad "2" smd roundrect
-		(at 1.7 0 180)
+		(at 1.7 0)
 		(size 1.8 1.5)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.06666666667)
-		(uuid "21e1819e-7dd1-4a3f-ba09-3d866781e98f")
+		(uuid "8cb0bd8d-8cd2-4615-9338-27ee11d6bd88")
 	)
 	(model "/Users/goatbook/Documents/GitHub/KiCad-Assets/3D Models Filets/D_SOD-123 Filets.step"
 		(offset
