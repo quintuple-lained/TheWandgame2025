@@ -24,6 +24,19 @@ For an excellent build guide, check out this fantastic resource from KeebSupply.
 ## PARTS LIST PCB ##
 
 - 1x The Endgame PCB             [Gerber Files](https://github.com/OldMan6955/TheEndgame2024/tree/main/001%20PCB) 
+
+There are now two versions of the PCB:
+
+1.	COPPER Version:
+ 
+In this version, all design elements are on the copper and mask layers. I used this version to create my prototypes. However, this version has longer loading times, and the Gerber files currently don’t work with JLCPCB. (I’d greatly appreciate any help with troubleshooting this issue.)
+
+2.	SILKSCREEN Version:
+3.	
+This version is untested. All design elements have been moved to the silkscreen layer, making it much more performant on less powerful PCs. The Gerber files display correctly on JLCPCB but have not yet been tested.
+
+Please always test the files yourself to rule out potential errors. Thank you!
+
 - 36x Choc v1 Hotswap Sockets    [buy here](https://www.aliexpress.com/item/1005004916925259.html?) 
 - 36x Diodes SOD123 / 1N4148W T4 [buy here](https://de.aliexpress.com/item/1005004309686841.html?) 
 - 1x Waveshare RP2040 UGLY AF    [buy here](https://de.aliexpress.com/item/1005006354505058.html?) 
