@@ -28,11 +28,9 @@ For an excellent build guide, check out this fantastic resource from KeebSupply.
 There are now two versions of the PCB:
 
 1.	COPPER Version:
- 
 In this version, all design elements are on the copper and mask layers. I used this version to create my prototypes. However, this version has longer loading times, and the Gerber files currently don’t work with JLCPCB. (I’d greatly appreciate any help with troubleshooting this issue.)
 
 2.	SILKSCREEN Version:
-3.	
 This version is untested. All design elements have been moved to the silkscreen layer, making it much more performant on less powerful PCs. The Gerber files display correctly on JLCPCB but have not yet been tested.
 
 Please always test the files yourself to rule out potential errors. Thank you!
